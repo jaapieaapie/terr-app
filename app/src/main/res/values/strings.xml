@@ -1,0 +1,13 @@
+<resources xmlns:xsl="http://schemas.android.com/apk/res-auto">
+    <?xml-stylesheet type="text/xsl" href="dummy.xsl"?>
+    <string name="app_name">T-Alert</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_map">Map</string>
+    <string name="aanslag">Over het algemeen gelden de volgende adviezen: <xsl:text>&#xA;</xsl:text>
+Ga zo snel mogelijk weg van de rampplek; "&#xA;"
+Kun je niet veilig wegkomen? Ga op de grond liggen, verberg jezelf of zoek dekking; &#xA;
+Heb je informatie die waardevol kan zijn bij het opsporen van de daders, meld dit bij de politie via 112; &#xA;
+Volg altijd de instructies van hulpverleners. Geef hulpdiensten de ruimte om hun werk te doen.</string>
+</resources>
